@@ -11,7 +11,6 @@
   inputs.src-Laser-master.ref   = "refs/heads/master";
   inputs.src-Laser-master.owner = "numforge";
   inputs.src-Laser-master.repo  = "laser";
-  inputs.src-Laser-master.dir   = "";
   inputs.src-Laser-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
