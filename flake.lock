@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689836,
-        "narHash": "sha256-WNhLabOlc32pj+8vsQJaxmnl7oVTDU7HtcZQdfxhOJ4=",
+        "lastModified": 1653696438,
+        "narHash": "sha256-/5caRFZZSmnbmTSHuIpTeQ19Vo0zE68veVncghB1+ZI=",
         "owner": "nim-nix-pkgs",
         "repo": "laser",
-        "rev": "fc48b0ffc4ae4a6e801189fc2e2de2a659f9b269",
+        "rev": "48a844f33db50c96a1e9af2af6e2580aa7ed6285",
         "type": "github"
       },
       "original": {
