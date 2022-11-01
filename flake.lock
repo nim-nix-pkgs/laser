@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254562,
-        "narHash": "sha256-sbqHzaFewWXE7aezM11p1jrT9gKJJp7VW0jb/ircego=",
+        "lastModified": 1667322380,
+        "narHash": "sha256-eo7wW7csnq9re6D4rY+N6C67/Mps5BemgNuTnBt7yd0=",
         "owner": "nim-nix-pkgs",
         "repo": "laser",
-        "rev": "0e7995b746c8da596d3a9161f7b8572e2daa01d1",
+        "rev": "ddc522cd4d99b36cf296e1d3828c750a2dc2e2fa",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
